@@ -1,5 +1,5 @@
 ## Progress Journal
 
-### Assignment 1 - RMarkdown 
+### Assignment 1
 
 [RMarkdown Assignment](rmarkdown.html)
