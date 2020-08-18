@@ -6,4 +6,4 @@
 
 ### Assignment 2
 
-[Analysis about Energy Market Prices](assignment2.html)
+[Analysis about Electricity Market Prices](assignment2.html)
