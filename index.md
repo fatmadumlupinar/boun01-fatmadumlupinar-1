@@ -8,5 +8,9 @@
 
 [Analysis about Electricity Market Prices](assignment2.html)
 
+### Assignment 3
+
+[Diamonds Price Estimation](Assignment3_Report.html)
+
 ### Progress Journal of Our Project Group
 [Group Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
