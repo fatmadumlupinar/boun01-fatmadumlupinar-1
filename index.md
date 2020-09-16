@@ -15,8 +15,11 @@
 ### In Class Exercises
 
 [Comparison of Students in Top 3 IE Departments](https://github.com/pjournal/boun01-fatmadumlupinar/blob/gh-pages/In-ClassExercises/Week4IE/Top3.html)
+
 [Shiny Exercise](https://github.com/pjournal/boun01-fatmadumlupinar/blob/gh-pages/In-ClassExercises/Week3Shiny/Shiny.html)
+
 [Rvest Exercise](https://github.com/pjournal/boun01-fatmadumlupinar/blob/gh-pages/In-ClassExercises/Week4IE/rvest.R)
+
 [AirBnb ML Overview](https://github.com/pjournal/boun01-fatmadumlupinar/blob/gh-pages/In-ClassExercises/Week5ML/AirBnb.html)
 
 
