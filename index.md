@@ -12,5 +12,9 @@
 
 [Diamonds Price Estimation](Assignment3_Report.html)
 
+### In Class Exercises
+
+[Comparison of Students in Top 3 IE Departments](Top3.html)
+
 ### Progress Journal of Our Project Group
 [Group Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
