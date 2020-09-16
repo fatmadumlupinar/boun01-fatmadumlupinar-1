@@ -14,7 +14,7 @@
 
 ### In Class Exercises
 
-[Comparison of Students in Top 3 IE Departments](Top3.html)
+[Comparison of Students in Top 3 IE Departments](In-Class Exercises/Week 4 IE/Top3.html)
 
 ### Progress Journal of Our Project Group
 [Group Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
