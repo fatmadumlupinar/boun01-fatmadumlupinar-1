@@ -30,4 +30,4 @@ html_df %>%
 # giving an error like this:
 
 #Error in UseMethod("rename_") : 
-#  'rename_' için uygulanabilir bir metod yok ("list" sınıfının bir nesnesine uygulanan)
+#  'rename_' iÃ§in uygulanabilir bir metod yok ("list" sÃ½nÃ½fÃ½nÃ½n bir nesnesine uygulanan)
