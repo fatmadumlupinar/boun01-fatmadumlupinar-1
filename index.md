@@ -14,7 +14,7 @@
 
 ### In Class Exercises
 
-[Comparison of Students in Top 3 IE Departments](https://github.com/pjournal/boun01-fatmadumlupinar/blob/gh-pages/In-Class%20Exercises/Week%204%20IE/Top3.html)
+[Comparison of Students in Top 3 IE Departments](https://github.com/pjournal/boun01-fatmadumlupinar/In-ClassExercises/Week4IE/Top3.html)
 
 ### Progress Journal of Our Project Group
 [Group Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
