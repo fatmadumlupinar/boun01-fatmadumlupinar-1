@@ -1,0 +1,19 @@
+---
+title: "AirBnb Price Prediction Overview"
+date: "September 16, 2020"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+In this analysis, author prefers only correlation matrix to an additional Principle Component Analysis when examining the relationship between the features. However, she decides that there is no correlation between them since all the correlation values are close to zero except the ones with price variable. Then, she continues to set a prediction model to estimate price values in her test data. Before starting, she calculates importance of features to see the most explanatory features. Then, she eliminates the least important ones which are `neighborhood group` and `room type` in for phase I. For phase II of the model, she considers all the features and compares the models with:
+
+- Mean Absolute Error (MAE) showing the difference between predictions and actual values.
+
+- Root Mean Square Error (RMSE) showing how accurately the model predicts the response.
+
+- R^2 to find the goodness of fit measure.
+
+Both models are established with linear regression. The results show that all models have similar prediction results. Phase 1 and 2 have a great difference for each metric. All metric values are increased in Phase 2 it means, the prediction error value is higher in that Phase and model explainability are very low the variability of the response data around mean.
+
+Reference: [AirBnb NYC Price Prediction](https://www.kaggle.com/duygut/airbnb-nyc-price-prediction)
