@@ -24,7 +24,7 @@
 
 ## Take Home Final
 
-[Final Report](FatmaNurDumlupınar_final_exam.pdf)
+[Final Analysis](FatmaNurDumlupınar_final_exam_RMD.html)
 
 
 # Progress Journal of Our Project Group
