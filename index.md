@@ -1,18 +1,18 @@
-## Progress Journal
+# Progress Journal
 
-### Assignment 1
+## Assignment 1
 
 [RMarkdown Assignment](rmarkdownhw.html)
 
-### Assignment 2
+## Assignment 2
 
 [Analysis about Electricity Market Prices](assignment2.html)
 
-### Assignment 3
+## Assignment 3
 
 [Diamonds Price Estimation](Assignment3_Report.html)
 
-### In Class Exercises
+## In Class Exercises
 
 [Comparison of Students in Top 3 IE Departments](Top3.html)
 
@@ -23,7 +23,7 @@
 [AirBnb ML Overview](AirBnb.html)
 
 
-### Progress Journal of Our Project Group
+# Progress Journal of Our Project Group
 [Group Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
 
 ## Project with Turkey's Tourists Data
