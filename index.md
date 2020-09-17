@@ -22,6 +22,10 @@
 
 [AirBnb ML Overview](AirBnb.html)
 
+## Take Home Final
+
+[Final Report](FatmaNurDumlupınar_final_exam.pdf)
+
 
 # Progress Journal of Our Project Group
 [Group Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
